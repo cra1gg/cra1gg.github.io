@@ -4099,19 +4099,6 @@
           "_params": {
             "gallery": [
               {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/jpeg-20190326-225007-697x929.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/jpeg-20190326-225007-697x929-627x733.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Personal (2018)",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -4148,6 +4135,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Client (2017)",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/jpeg-20190326-225007-697x929.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/jpeg-20190326-225007-697x929-627x733.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Personal (2018)",
                 "active": false
               },
               {
